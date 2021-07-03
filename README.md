@@ -1,4 +1,4 @@
-# UniversalOsDevQuestionCheckList
+# UniversalOsDevQuestionCheckList (uodqcl)
 A checklist for beginners to check before asking questions
 
 
